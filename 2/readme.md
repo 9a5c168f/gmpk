@@ -1,5 +1,5 @@
 # How-to:
-Must be run on an azure virtual machine
+Must be run on an azure virtual machine or can be built locally with docker that will `go test`
 ## Test and build
 A docker image will be built if all the go tests pass.
 ```
