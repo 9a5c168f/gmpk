@@ -5,7 +5,6 @@ A docker image will be built if all the go tests pass.
 ```
 docker build -t kpmg2 .
 ```
-
 ### You can also run natively with go
 With specific key
 ```
